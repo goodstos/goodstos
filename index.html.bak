@@ -9,7 +9,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Resto - Restaurant Bootstrap 4 Template by GetTemplates.co</title>
+    <title>Goodstos</title>
     <meta name="description" content="Resto">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -84,10 +84,10 @@
                 </li>
                 <div class="d-flex flex-lg-row flex-column">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="/">Acasa <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="about.html">Despre Noi</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -111,14 +111,14 @@
                         <a class="nav-link" href="menu.html">Menu</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="team.html">Team</a>
+                        <a class="nav-link" href="team.html">Echipa Noastra</a>
                     </li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="team.html">Team1</a>
+                        <a class="nav-link" href="team.html">Comanda </a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="tel:8665562570">Tel</a>
+                        <a class="nav-link" href="tel:8665562570">Telefon</a>
                     </li>
                 </div>
                 <li class="nav-item">
@@ -143,19 +143,19 @@
 		    	<li class="border-right">
 		    		<span class="lnr lnr-rocket"></span>
 		    		<h5>
-		    			Fast Delivery
+		    			Livrare Rapida
 		    		</h5>
 		    	</li>
 		    	<li class="border-right">
 		    		<span class="lnr lnr-leaf"></span>
 		    		<h5>
-		    			Fresh Food
+		    			 Incrediente Fresh
 		    		</h5>
 		    	</li>
 		    	<li class="">
 		    		<span class="lnr lnr-bubble"></span>
 		    		<h5>
-		    			24/7 Support
+		    			Deschis 13/24 
 		    		</h5>
 		    	</li>
 		    </ul>
@@ -187,32 +187,15 @@
                 <div class="col-sm-7 py-5 pl-md-0 pl-4">
                     <div class="heading-section pl-lg-5 ml-md-5">
                         <span class="subheading">
-                            About
+                            Despre noi 
                         </span>
                         <h2>
-                            Welcome to Resto
+                            Bine ai venit
                         </h2>
                     </div>
                     <div class="pl-lg-5 ml-md-5">
                         <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-                        <h3 class="mt-5">Special Recipe</h3>
-                        <div class="row">
-                            <div class="col-4">
-                                <a href="#" class="thumb-menu">
-                                    <img class="img-fluid img-cover" src="img/hero-1.jpg" />
-                                    <h6>Australian Organic Beef</h6>
-                                </a>
-                            </div>
-                            <div class="col-4">
-                                <a href="#" class="thumb-menu">
-                                    <img class="img-fluid img-cover" src="img/hero-1.jpg" />
-                                    <h6>Australian Organic Beef</h6>
-                                </a>
-                            </div>
-                            <div class="col-4">
-                                <a href="#" class="thumb-menu">
-                                    <img class="img-fluid img-cover" src="img/hero-1.jpg"/>
-                                    <h6>Australian Organic Beef</h6>
+                        
                                 </a>
                             </div>
                         </div>
@@ -468,7 +451,7 @@
                             <p class="mb-1">CEO</p>
                             <ul class="list-inline mb-0 team-social-links">
                                 <li class="list-inline-item">
-                                    <a href="#">
+                                    <a href="">
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
                                 </li>
@@ -559,7 +542,7 @@
 </section>
 <!-- End of Team Section -->  <!-- Start of GMAPS -->	
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11393.050455494254!2d26.0924741!3d44.448286!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x45d42c8f014f8e97!2sGoodstos!5e0!3m2!1sen!2sro!4v1645512053909!5m2!1sen!2sro" width="1844" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11393.050455494254!2d26.0924741!3d44.448286!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x45d42c8f014f8e97!2sGoodstos!5e0!3m2!1sen!2sro!4v1645512053909!5m2!1sen!2sro" width="2000" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 <!-- End of GMAPS -->	
@@ -573,13 +556,11 @@
          			<img src="img/logo.png" class="img-fluid footer-logo mb-3" alt="">
 	         		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et obcaecati quisquam id sit omnis explicabo voluptate aut placeat, soluta, nisi ea magni facere, itaque incidunt modi? Magni, et voluptatum dolorem.</p>
 	         		<nav class="nav nav-mastfoot justify-content-start">
-		                <a class="nav-link" href="#">
+		                <a class="nav-link" href="https://www.facebook.com/pages/category/Restaurant/GoodStos-104622618125713/">
 		                	<i class="fab fa-facebook-f"></i>
 		                </a>
-		                <a class="nav-link" href="#">
-		                	<i class="fab fa-twitter"></i>
-		                </a>
-		                <a class="nav-link" href="#">
+		                
+		                <a class="nav-link" href="https://www.instagram.com/goodstos/?hl=ro">
 		                	<i class="fab fa-instagram"></i>
 		                </a>
 		            </nav>
